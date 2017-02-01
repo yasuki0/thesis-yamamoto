@@ -1,0 +1,21 @@
+\contentsline {chapter}{\numberline {第1章}序論}{2}
+\contentsline {section}{\numberline {1.1}Mg合金}{2}
+\contentsline {section}{\numberline {1.2}LPSO 構造}{2}
+\contentsline {subsection}{\numberline {1.2.1}積層欠陥}{2}
+\contentsline {subsection}{\numberline {1.2.2}LPSO構造}{3}
+\contentsline {subsection}{\numberline {1.2.3}LPSO構造生成シナリオ}{3}
+\contentsline {section}{\numberline {1.3}拡散}{4}
+\contentsline {subsection}{\numberline {1.3.1}空孔拡散}{4}
+\contentsline {subsection}{\numberline {1.3.2}クラスター拡散}{5}
+\contentsline {section}{\numberline {1.4}構造緩和}{6}
+\contentsline {chapter}{\numberline {第2章}手法}{7}
+\contentsline {section}{\numberline {2.1}第一原理計算}{7}
+\contentsline {section}{\numberline {2.2}VASP}{7}
+\contentsline {section}{\numberline {2.3}計算モデル}{7}
+\contentsline {subsection}{\numberline {2.3.1}周期的境界条件}{7}
+\contentsline {subsection}{\numberline {2.3.2} L1$_2$ クラスターおよび Small Cluster の導入}{8}
+\contentsline {subsection}{\numberline {2.3.3} Small Cluster および 空孔の導入}{9}
+\contentsline {section}{\numberline {2.4}Small Cluster と空孔の挿入位置}{9}
+\contentsline {chapter}{\numberline {第3章}結果}{11}
+\contentsline {chapter}{\numberline {第4章}考察}{12}
+\contentsline {chapter}{\numberline {第5章}総括}{13}
