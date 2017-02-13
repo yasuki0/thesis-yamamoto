@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  1 FEB 2017 15:52
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  13 FEB 2017 18:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -155,6 +155,15 @@ Package: tascmac 2016/04/15 v2.0b ascmac package (community edition)
 \@bcal=\count104
 \shaderule=\dimen137
 ))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/here/here.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks22
+\float@box=\box50
+\@float@everytoks=\toks23
+\@floatcapt=\box51
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip46
@@ -167,61 +176,30 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 LaTeX Warning: Unused global option(s):
     [a4].
 
-(./Thesis.aux
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-)
+(./Thesis.aux)
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -235,16 +213,16 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
  [1])
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 40.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 40.
- (./Thesis.toc)
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 41.
+ (./Thesis.toc [1
+
+])
 \tf@toc=\write3
 \openout3 = `Thesis.toc'.
 
- (../intro/intro.tex [1
-
-]
+ (../intro/intro.tex [2]
 第 1 章
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 4.
@@ -255,68 +233,80 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 10.
 File: ../intro/stuc.png Graphic file (type bmp)
-<../intro/stuc.png> [2
+<../intro/stuc.png> [3
 
-] [3]
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+ [4]
 File: ../intro/monovacancy.png Graphic file (type bmp)
- <../intro/monovacancy.png>
-File: ../intro/divacancy.png Graphic file (type bmp)
 
-<../intro/divacancy.png> [4]
+<../intro/monovacancy.png>
+File: ../intro/divacancy.png Graphic file (type bmp)
+ <../intro/divacancy.png>
 File: ../intro/kakusan.png Graphic file (type bmp)
  <../intro/kakusan.png>
 File: ../intro/balc.png Graphic file (type bmp)
- <../intro/balc.png>
-[5]) (../method/method.tex [6]
+
+<../intro/balc.png> [5] [6]) (../method/method.tex [7]
 第 2 章
-[7
+[8
 
 ]
 File: ../method/cnd.png Graphic file (type bmp)
  <../method/cnd.png>
 File: ../method/MiniCluster.png Graphic file (type bmp)
- <../method/MiniCluster.png> [8]
-File: ../method/small_cluster_slab.png Graphic file (type bmp)
+ <../method/MiniCluster.png> [9]
+File: ../method/small_cluster_slab18.png Graphic file (type bmp)
 
-<../method/small_cluster_slab.png>
+<../method/small_cluster_slab18.png> [10]
+File: ../method/vacancyposition.png Graphic file (type bmp)
+ <../method/vacancyposition.png>)
+(../result/result.tex [11]
+第 3 章
+File: ../result/small_cluster.eps Graphic file (type eps)
+<../result/small_cluster.eps> [12
+
+]
+File: ../method/Clayer.png Graphic file (type bmp)
+ <../method/Clayer.png>
+File: ../method/AClayer.png Graphic file (type bmp)
+
+<../method/AClayer.png>
 File: ../method/Alayer.png Graphic file (type bmp)
  <../method/Alayer.png>
-File: ../method/Clayer.png Graphic file (type bmp)
-
-<../method/Clayer.png>
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 55--67
-[][][][] 
- []
-
 File: ../method/AClayer.png Graphic file (type bmp)
-<../method/AClayer.png>) (../result/result.tex [9] [10]
-第 3 章
-) (../consideration/consideration.tex [11
+ <../method/AClayer.png> [13]
+File: ../result/small_cluster_Alld_color.eps Graphic file (type eps)
 
-]
+<../result/small_cluster_Alld_color.eps> [14])
+(../consideration/consideration.tex [15]
 第 4 章
-) (../summary/summary.tex [12
+File: ../consideration/smallcluster_18_24.eps Graphic file (type eps)
+<../consideration/smallcluster_18_24.eps> [16
 
-]
+]) (../summary/summary.tex
+[17]
 第 5 章
-) (../appreciate/appreciate.tex [13
+) (../appreciate/appreciate.tex [18
 
-]) [14
+]) [19
 
-] [15
+] [20
 
-] (./Thesis.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+] (./Thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 1978 strings out of 493693
- 24576 string characters out of 6149787
- 84945 words of memory out of 5000000
- 5487 multiletter control sequences out of 15000+600000
+ 2087 strings out of 493693
+ 26270 string characters out of 6149787
+ 88323 words of memory out of 5000000
+ 5580 multiletter control sequences out of 15000+600000
  22012 words of font info for 89 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,10n,26p,1019b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,7n,26p,711b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.dvi (17 pages, 26756 bytes).
+Output written on Thesis.dvi (22 pages, 43864 bytes).
