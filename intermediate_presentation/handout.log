@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  16 FEB 2017 14:35
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  16 FEB 2017 11:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -73,7 +73,14 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
 )
-(./handout.aux)
+(./handout.aux
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+)
 \openout1 = `handout.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -96,12 +103,14 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 16.60605pt on input line 17.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 16.60605pt on input line 17.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 17.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 17.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 17.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -109,57 +118,70 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 5.76599pt on input line 17.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 20.
+(Font)              scaled to size 11.53198pt on input line 18.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 20.
+(Font)              scaled to size 11.53198pt on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
+(Font)              <7> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 23.
+(Font)              <5> on input line 22.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 23.
+(Font)              scaled to size 6.72699pt on input line 22.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 23.
-File: small_cluster_slab18.png Graphic file (type bmp)
- <small_cluster_slab18.png>
-Overfull \hbox (1.06685pt too wide) in paragraph at lines 37--38
- [][] 
- []
-
+(Font)              scaled to size 4.805pt on input line 22.
+File: lpso.png Graphic file (type bmp)
+ <lpso.png>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 38.
+(Font)              scaled to size 8.64899pt on input line 31.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 38.
-File: vacancyposition.png Graphic file (type bmp)
-<vacancyposition.png>
-Overfull \hbox (1.06685pt too wide) in paragraph at lines 43--44
+(Font)              scaled to size 8.64899pt on input line 31.
+File: small_cluster_slab.png Graphic file (type bmp)
+ <small_cluster_slab.png>
+Overfull \hbox (1.06685pt too wide) in paragraph at lines 56--57
  [][] 
  []
 
+File: small_cluster.eps Graphic file (type eps)
+<small_cluster.eps>
+Overfull \hbox (1.06685pt too wide) in paragraph at lines 62--63
+ [][] 
+ []
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 34--48
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 63.
+
+Underfull \hbox (badness 2189) in paragraph at lines 63--63
+ []\JY1/mc/m/n/9 図 \OT1/cmr/m/n/9 3 L1$[]$ \JY1/mc/m/n/9 クラスタ ーと 
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 53--67
 [][][][] 
  []
 
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 77.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 77.
+[1
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-File: smallcluster_18_24.eps Graphic file (type eps)
+] (./handout.aux)
 
-<smallcluster_18_24.eps>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 57.
- [1
+LaTeX Warning: There were multiply-defined labels.
 
-
-] (./handout.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 961 strings out of 493693
- 11884 string characters out of 6149787
- 74193 words of memory out of 5000000
- 4553 multiletter control sequences out of 15000+600000
- 13727 words of font info for 60 fonts, out of 8000000 for 9000
+ 967 strings out of 493693
+ 11928 string characters out of 6149787
+ 73193 words of memory out of 5000000
+ 4558 multiletter control sequences out of 15000+600000
+ 14931 words of font info for 65 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,10n,21p,750b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,10n,21p,408b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on handout.dvi (1 page, 7492 bytes).
+Output written on handout.dvi (1 page, 7172 bytes).
