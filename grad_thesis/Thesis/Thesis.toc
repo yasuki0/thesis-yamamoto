@@ -1,13 +1,10 @@
 \contentsline {chapter}{\numberline {第1章}序論}{3}
-\contentsline {section}{\numberline {1.1}Mg合金}{3}
-\contentsline {section}{\numberline {1.2}LPSO 構造}{3}
-\contentsline {subsection}{\numberline {1.2.1}積層欠陥}{3}
+\contentsline {section}{\numberline {1.1}目的}{3}
+\contentsline {section}{\numberline {1.2}材料構造の基礎的知識}{4}
+\contentsline {subsection}{\numberline {1.2.1}積層欠陥}{4}
 \contentsline {subsection}{\numberline {1.2.2}LPSO 構造}{4}
-\contentsline {subsection}{\numberline {1.2.3}LPSO構造生成シナリオ}{4}
-\contentsline {section}{\numberline {1.3}拡散}{5}
-\contentsline {subsection}{\numberline {1.3.1}空孔拡散}{5}
-\contentsline {subsection}{\numberline {1.3.2}クラスター拡散}{5}
-\contentsline {section}{\numberline {1.4}構造緩和}{7}
+\contentsline {subsection}{\numberline {1.2.3}空孔拡散}{5}
+\contentsline {subsection}{\numberline {1.2.4}クラスター拡散}{5}
 \contentsline {chapter}{\numberline {第2章}手法}{8}
 \contentsline {section}{\numberline {2.1}第一原理計算}{8}
 \contentsline {section}{\numberline {2.2}VASP}{8}
@@ -21,7 +18,7 @@
 \contentsline {subsection}{\numberline {3.1.1}18層の slub モデルの計算結果}{12}
 \contentsline {subsection}{\numberline {3.1.2}C 層に Small Cluster を挿入した時のエネルギー}{13}
 \contentsline {subsection}{\numberline {3.1.3}A 層に Small Cluster を挿入した時のエネルギー}{13}
-\contentsline {section}{\numberline {3.2} Small Cluster および 空孔の導入}{14}
+\contentsline {section}{\numberline {3.2} Small Cluster および 空孔の導入}{15}
 \contentsline {chapter}{\numberline {第4章}考察}{16}
 \contentsline {section}{\numberline {4.1} Small Cluster と L1$_2$ クラスターの相互作用}{16}
 \contentsline {section}{\numberline {4.2}修正後のシナリオ}{17}

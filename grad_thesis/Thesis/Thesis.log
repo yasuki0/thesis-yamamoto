@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  13 FEB 2017 18:01
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  16 FEB 2017 12:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -225,24 +225,25 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
  (../intro/intro.tex [2]
 第 1 章
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 4.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 10.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 10.
-File: ../intro/stuc.png Graphic file (type bmp)
-<../intro/stuc.png> [3
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 3.
+[3
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 20.
+File: ../intro/stuc.png Graphic file (type bmp)
+ <../intro/stuc.png>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
  [4]
 File: ../intro/monovacancy.png Graphic file (type bmp)
 
@@ -251,9 +252,9 @@ File: ../intro/divacancy.png Graphic file (type bmp)
  <../intro/divacancy.png>
 File: ../intro/kakusan.png Graphic file (type bmp)
  <../intro/kakusan.png>
+[5] [6]
 File: ../intro/balc.png Graphic file (type bmp)
-
-<../intro/balc.png> [5] [6]) (../method/method.tex [7]
+ <../intro/balc.png>) (../method/method.tex [7]
 第 2 章
 [8
 
@@ -284,14 +285,13 @@ File: ../method/AClayer.png Graphic file (type bmp)
  <../method/AClayer.png> [13]
 File: ../result/small_cluster_Alld_color.eps Graphic file (type eps)
 
-<../result/small_cluster_Alld_color.eps> [14])
-(../consideration/consideration.tex [15]
+<../result/small_cluster_Alld_color.eps> [14]) (../discussion/discussion.tex
+[15]
 第 4 章
-File: ../consideration/smallcluster_18_24.eps Graphic file (type eps)
-<../consideration/smallcluster_18_24.eps> [16
+File: ../discussion/smallcluster_18_24.eps Graphic file (type eps)
+<../discussion/smallcluster_18_24.eps> [16
 
-]) (../summary/summary.tex
-[17]
+]) (../summary/summary.tex [17]
 第 5 章
 ) (../appreciate/appreciate.tex [18
 
@@ -302,11 +302,11 @@ File: ../consideration/smallcluster_18_24.eps Graphic file (type eps)
 ] (./Thesis.aux) ) 
 Here is how much of TeX's memory you used:
  2087 strings out of 493693
- 26270 string characters out of 6149787
- 88323 words of memory out of 5000000
+ 26246 string characters out of 6149787
+ 89323 words of memory out of 5000000
  5580 multiletter control sequences out of 15000+600000
  22012 words of font info for 89 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,7n,26p,711b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,7n,26p,705b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.dvi (22 pages, 43864 bytes).
+Output written on Thesis.dvi (22 pages, 44160 bytes).
