@@ -12,7 +12,7 @@
 \contentsline {subsection}{\numberline {2.3.1}周期的境界条件}{8}
 \contentsline {subsection}{\numberline {2.3.2} Small Cluster}{9}
 \contentsline {subsection}{\numberline {2.3.3} L1$_2$ クラスターおよび Small Cluster の導入}{10}
-\contentsline {subsection}{\numberline {2.3.4} Small Cluster および 空孔の導入}{11}
+\contentsline {subsection}{\numberline {2.3.4} Small Cluster への空孔の導入}{11}
 \contentsline {chapter}{\numberline {第3章}結果}{12}
 \contentsline {section}{\numberline {3.1} L1$_2$ クラスターおよび Small Cluster の導入}{12}
 \contentsline {subsection}{\numberline {3.1.1}18層の slub モデルの計算結果}{12}

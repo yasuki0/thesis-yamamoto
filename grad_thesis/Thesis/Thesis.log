@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  16 FEB 2017 12:00
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  18 FEB 2017 15:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -307,6 +307,6 @@ Here is how much of TeX's memory you used:
  5580 multiletter control sequences out of 15000+600000
  22012 words of font info for 89 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,7n,26p,705b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,7n,26p,693b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.dvi (22 pages, 44160 bytes).
+Output written on Thesis.dvi (22 pages, 44124 bytes).
